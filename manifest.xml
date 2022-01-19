@@ -19,5 +19,5 @@ https://gerrit.googlesource.com/git-repo/+/HEAD/docs/manifest-format.md
 	
         <project path="device/10or/E" name="device_10or_E" remote="Ozu" revision="main" clone-depth="1" />
         <project path="vendor/10or/E" name="vendor_10or_E" remote="popo" revision="main" clone-depth="1" />
-        <project path="kernel/10or/E" name="prebuilt" remote="Ozu" revision="main" clone-depth="1" />
+        <project path="kernel/10or/E" name="msm-4.9_holland1" remote="Ozu" revision="main" clone-depth="1" />
 </manifest>
