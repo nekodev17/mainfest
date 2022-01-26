@@ -21,4 +21,5 @@ https://gerrit.googlesource.com/git-repo/+/HEAD/docs/manifest-format.md
         <project path="vendor/10or/E" name="vendor_10or_E" remote="popo" revision="main" clone-depth="1" />
         <project path="kernel/10or/E" name="msm-4.9_holland1" remote="Ozu" revision="a12/master" clone-depth="1" />
         <project path="external/ant-wireless/antradio-library" name="android_external_ant-wireless_antradio-library" remote="LineageOS" revision="lineage-19.0" clone-depth="1" />
+        <project path="hardware/sony/timekeep" name="android_hardware_sony_timekeep" remote="LineageOS" revision="lineage-18.1" clone-depth="1" />
 </manifest>
